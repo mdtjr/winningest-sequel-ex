@@ -1,0 +1,8 @@
+development:
+  adapter: postgresql
+  database: Winningest_development
+  username: mdt
+  password: gestern
+  encoding: utf8 # Optional, also accept 'charset' as key, if both are present 'encoding' is used (defaults to 'utf8')
+  locale: en_US.UTF-8 # Optional, equivalent to setting 'collation' and 'ctype' to the same value
+  max_connections: 1
